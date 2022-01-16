@@ -3,6 +3,7 @@
 
 [![Jaeseok's github stats](https://github-readme-stats.vercel.app/api?username=jssjchl)](https://github.com/jssjchl)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jssjchl&show_icons=true)
 
 ![Jaeseok's GitHub stats](https://github-readme-stats.vercel.app/api?username=jssjchl&show_icons=true&theme=radical)
 
